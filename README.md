@@ -39,7 +39,7 @@ This is a successor to the old [EsportsCapsuleFarmer](https://github.com/LeagueO
 - Docker supported
 - ARM supported (Raspberry Pi)
 - [Discord Webhook support](https://github.com/LeagueOfPoro/CapsuleFarmerEvolved/wiki/Configuration#configuration-options)
-
+- Feet
 ## Community
 If you have any type of issue, need help, or just want to hangout. Come to [League of Poro's Discord server](https://discord.gg/ebm5MJNvHU).
 
