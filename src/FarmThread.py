@@ -101,10 +101,10 @@ class FarmThread(Thread):
 
                     # Get a random image
                     query = "feet"
-                    response = requests.get(f"https://source.unsplash.com/500x500/?{query}")
+                    response = requests.get(f"https://source.unsplash.com/1920x1080/?{query}")
                     thumbnail = response.url
-                    rewardImage = response.url
 
+                    rewardImage = newDrops[x]["inventory"][0]["localizedInventory"]["inventory"]["imageUrl"]
                     reward = newDrops[x]["inventory"][0]["localizedInventory"]["title"]["en_US"]
 
                     embed = {
