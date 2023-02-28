@@ -8,6 +8,7 @@
 <a href="https://github.com/LeagueOfPoro/CapsuleFarmerEvolved/issues?q=is%3Aissue+is%3Aclosed"><img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/LeagueOfPoro/CapsuleFarmerEvolved"></a>
 <a href="https://github.com/LeagueOfPoro/CapsuleFarmerEvolved"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LeagueOfPoro/CapsuleFarmerEvolved"></a>
 </p>
+Now with more feet! 🐾
 
 Are you tired of watching professional League of Legends games? Do you watch only for the drops? This is a revolution in the farming of League of Legends Esports capsules!
 
