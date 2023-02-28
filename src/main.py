@@ -27,10 +27,10 @@ def init() -> tuple[logging.Logger, Config]:
 
     print("***************************************************************")
     print(f"* Thanks for using Capsule Farmer Evolved v{str(CURRENT_VERSION)} Feet Edition!  *")
-    print("*   [steel_blue1]Please consider supporting League of Poro on YouTube.[/]   *")
-    print("*      If you need help with the app, join our Discord       *")
-    print("*               https://discord.gg/ebm5MJNvHU                *")
-    print(f"*                   Started: [green]{strftime('%b %d, %H:%M', localtime())}[/]                *")
+    print("*   [steel_blue1]Please consider supporting League of Poro on YouTube.[/]     *")
+    print("*      If you need help with the app, join our Discord        *")
+    print("*                 https://discord.gg/ebm5MJNvHU               *")
+    print(f"*                     Started: [green]{strftime('%b %d, %H:%M', localtime())}[/]                  *")
     print("***************************************************************")
     print()
 
