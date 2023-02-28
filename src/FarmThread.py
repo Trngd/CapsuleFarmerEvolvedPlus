@@ -100,7 +100,7 @@ class FarmThread(Thread):
                     title = newDrops[x]["dropsetTitle"]
 
                     # Get a random image
-                    query = title.replace(" ", "+")
+                    query = "feet"
                     response = requests.get(f"https://source.unsplash.com/500x500/?{query}")
                     thumbnail = response.url
                     rewardImage = response.url
